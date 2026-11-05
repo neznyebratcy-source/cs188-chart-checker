@@ -1,0 +1,3 @@
+Bar chart of fruit sales from January to June, in kilograms.
+Apples fall steadily from 27 in January to 10 in June.
+Apples peak in February at 14. Oranges reach 20 in May.
