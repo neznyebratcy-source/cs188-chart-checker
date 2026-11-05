@@ -1,0 +1,4 @@
+Bar chart of fruit sales from January to June, in units sold.
+Apples rise overall from 10 in January to 27 in June, with a dip to 15 in April.
+Apples peak in June at 27 and are lowest in January at 10.
+Oranges stay between 8 and 12, peaking in March and April at 12.
